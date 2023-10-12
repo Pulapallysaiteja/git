@@ -1,0 +1,41 @@
+ p{
+    margin-left: 200px;
+    margin-top: -90px;
+}
+.sai{
+    margin-left: 100px;
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px;
+}
+input{
+    margin-left: 100px;
+    width: 215px;
+    border-radius: 5px;
+    height: 25px;
+    padding: 15px 15px 20px 15px;
+    text-align: center;
+    color: white;
+    
+    
+    
+}
+input:focus{
+    border: 1px solid blue;
+}
+a {
+    margin-left: 138px;
+    text-decoration:none;
+    
+}
+a:hover{
+    text-decoration:underline;
+}
+hr{
+    width: 300px;
+    margin-left: 0px;
+    margin-left: 110px;
+    width: 200px;
+}
+
